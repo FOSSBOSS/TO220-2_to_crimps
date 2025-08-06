@@ -4,5 +4,5 @@ Through hole TO-220 to 1/4 spade connectors adapter. intent is to have JLPB or P
 https://www.digikey.com/en/models/2170998  
 <br>
 https://www.sensata.com/products/temperature/6700-series-220-subminiature-thermostat
-<br>
+<br><br>
 <img src="aots_crimp/photo.png">
